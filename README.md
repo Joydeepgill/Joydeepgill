@@ -6,6 +6,7 @@
 - Phreesia (Backend Development)
 - PointClickCare (Backend Development) 
 
+Currently I'm working on some cool things, which include: 
  
 - 🔭 I’m currently working on doing data structures and algorithms puzzles
 - 🌱 I’m currently learning C++ 
