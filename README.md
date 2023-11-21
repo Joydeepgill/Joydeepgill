@@ -8,8 +8,8 @@
 
 Currently I'm working on some cool things, which include: 
  
-- 🔭 I’m currently working on doing data structures and algorithms puzzles
-- 🌱 I’m currently learning C++ 
-- 😄 Pronouns: she/her
+- 🔭 working on doing data structures and algorithms puzzles
+- 🌱 learning C++  
+
 
 When I'm not doing anything CS related, you catch me reading a cool webtoon, watching a cute k-drama, or playing with my dog 🐶.
