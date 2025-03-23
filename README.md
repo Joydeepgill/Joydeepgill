@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- I'm a Computer Science Graduate from the University of Ottawa 🇨🇦 and am currently interested in Database Systems, OS, Compilers and Low level systems 💻 . Previously, I've interned at the following companies:   
-
+ I'm a Software Developer and am currently interested in OS, Compilers and Low level systems 💻 . Previously, I've worked at the following companies:   
+ 
 - University of Ottawa (Frontend Devlopment)
 - Phreesia (Backend Development)
 - PointClickCare (Backend Development) 
